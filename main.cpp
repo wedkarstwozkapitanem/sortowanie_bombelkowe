@@ -1,3 +1,8 @@
+/*
+/*	title: sortowanie bombelkowe
+/*	autor:Dominik £empicki Kapitan
+*/
+
 #include"sortowanie.h"
 
 

@@ -90,6 +90,11 @@ void sortowanie::sortuj(std::array<T, rozmiar>& liczby, bool czyRosnoco)
 	} while (zmiana);
 }
 
+/*
+/*	title: sortowanie bombelkowe
+/*	autor:Dominik Łempicki Kapitan
+*/
+
 sortowanie::sortowanie()
 {
 	sortowanie::test();
@@ -141,3 +146,8 @@ for (int i = 0;i<sizeof(liczb);i++) {
 std::cout << liczb[i] << std::endl;
 }
 }*/
+
+/*
+/*	title: sortowanie bombelkowe
+/*	autor:Dominik Łempicki Kapitan
+*/

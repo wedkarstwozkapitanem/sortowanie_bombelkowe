@@ -1,3 +1,9 @@
+/*
+/*	title: sortowanie bombelkowe
+/*	autor:Dominik £empicki Kapitan
+*/
+
+
 #pragma once
 #include<iostream>
 #include<vector>
@@ -18,3 +24,7 @@ class sortowanie
 		void test();
 };
 
+/*
+/*	title: sortowanie bombelkowe
+/*	autor:Dominik £empicki Kapitan
+*/
