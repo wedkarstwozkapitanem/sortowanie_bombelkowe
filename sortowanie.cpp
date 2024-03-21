@@ -1,4 +1,9 @@
-﻿#include "sortowanie.h"
+/*
+/*	title: sortowanie bombelkowe
+/*	autor:Dominik Łempicki Kapitan
+*/
+
+#include "sortowanie.h"
 
 
 template<typename T>
